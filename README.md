@@ -1,6 +1,6 @@
 # Hi, I'm Bashiir 👋
 
-**AI Engineer & Software Engineer.** I build AI agents and full-stack products that are measured, tested and safe to run: evaluated in CI, grounded in cited sources, and built to degrade gracefully instead of crashing.
+**AI Engineer & Software Engineer, based in Helsinki.** I build AI agents and full-stack products that are measured, tested and safe to run: evaluated in CI, grounded in cited sources, and built to degrade gracefully instead of crashing.
 
 ## Featured projects
 
